@@ -1,1 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100..700&family=Lato:wght@300;400;700;900&display=swap')
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*------Navbar------*/
+
+.nav-item {
+    font-family: 'Josefin Sans';
+    font-weight: 200px;
+}
+
+/*------Hero Image------*/
+
+.hero-image {
+    background-image: url('/assets/images/hero.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
