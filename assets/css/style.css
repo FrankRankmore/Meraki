@@ -9,11 +9,17 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/*------Navbar------*/
+/*------Navbar & Header------*/
+
+header {
+    background: #99cf73;
+}
 
 .nav-item {
     font-family: 'Josefin Sans';
     font-weight: 200px;
+    font-size: 27px;
+    padding: 1px 0 1px 0;
 }
 
 /*------Hero Image------*/
@@ -21,11 +27,16 @@ body {
 .hero-image {
     background-image: url('/assets/images/hero.jpg');
     background-size: cover;
-    background-position: center center;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
+}
+
+/*------Hero Image------*/
+
+footer {
+    background: #93C572;
 }
