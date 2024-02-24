@@ -7,19 +7,20 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+    
 }
 
 /*------Navbar & Header------*/
 
-header {
-    background: #99cf73;
-}
+
 
 .nav-item {
     font-family: 'Josefin Sans';
     font-weight: 200px;
     font-size: 27px;
     padding: 1px 0 1px 0;
+    text-decoration: underline #678239;
 }
 
 /*------Hero Image------*/
@@ -35,8 +36,32 @@ header {
     height: 100vh;
 }
 
-/*------Hero Image------*/
-
-footer {
-    background: #93C572;
+.hero-image h1 {
+    font-family: 'Josefin Sans';
+    color: #b44848;
+    text-shadow: 3px 3px #678239;
+    font-size: 90px;
 }
+
+/*------About------*/
+
+.about h3 {
+    font-family: 'Josefin Sans';
+    font-size: 2rem;
+    font-weight: 200px;
+}
+
+/*------Price List------*/
+
+#prices ul {
+    list-style-type: none;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: #678239;
+    margin: 0 20px 0 20px;
+}
+
+
