@@ -15,6 +15,7 @@ body {
 
 .navbar {
     background-color: #000000;
+    border-bottom: #678239;
 }
 .home {
     font-family: 'Josefin Sans';
