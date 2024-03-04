@@ -15,7 +15,7 @@ body {
 
 .navbar {
     background-color: #000000;
-    border-bottom: 4px solid #678239;
+    border-bottom: 4px solid rgb(4, 110, 66);
 }
 .home {
     font-family: 'Josefin Sans';
@@ -29,6 +29,12 @@ body {
 .nav-item {
     font-family: 'Montserrat';
     font-size: 1.2rem;
+}
+
+.home {
+    color: rgb(4, 110, 66);
+    margin: 3px;
+    font-weight: 300;
 }
 
 .nav-item a {
@@ -59,6 +65,12 @@ body {
 
 /*------About------*/
 
+.about h3 {
+    color: rgb(4, 110, 66);
+    font-size: 3rem;
+    font-weight: 300;
+}
+
 .section .about {
     padding: 3
 }
@@ -78,7 +90,7 @@ body {
     border-style: solid;
     border-radius: 10px;
     border-width: 4px;
-    border-color: #678239;
+    border-color: rgb(4, 110, 66);
     margin: 0 20px 0 20px;
 }
 
@@ -104,16 +116,12 @@ body {
 .footer {
     padding: 2.5rem 0;
     background-color: #000000;
-    border-top: 4px solid #678239;
+    border-top: 4px solid rgb(4, 110, 66);
 }
 
 .footer .social {
     text-align: center;
     padding-bottom: 1.5rem;
-}
-
-.footer a:hover {
-    color: #fff;
 }
 
 .footer .social a {
