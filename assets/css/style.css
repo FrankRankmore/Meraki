@@ -66,9 +66,10 @@ body {
 /*------About------*/
 
 .about h3 {
-    color: rgb(4, 110, 66);
+    color: black;
     font-size: 3rem;
-    font-weight: 300;
+    font-weight: 400;
+    text-decoration: underline rgb(4, 110, 66);
 }
 
 .section .about {
