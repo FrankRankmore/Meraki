@@ -10,26 +10,29 @@ This website is for my partner Laura to show off her talent and skillset with a 
 
 ### Site Purpose
 
-The purpose of this website is to promote the business to a wider audience and for the customer to feel confident in choosing a hairstylist who can create a new look and also find inspiration through by browsing the gallery.
+The purpose of this website is to promote the business to a wider audience and for the customer to feel confident in choosing a hairstylist who can create a new look and also find inspiration through browsing the gallery.
 
 ### Goals
 
 #### New Customers
 
 * A website that looks intriguing and easy to navigate.
-* To learn about the stylists personality and experience.
-* To be inspired in choosing that new look.
+* To gain insights into the stylist's personality traits and professional background.
+* To draw inspiration when choosing your next hairstyle or appearance transformation..
 * Contact page for bookings or any questions they might have.
 
 #### Existing Customers
 
 * Updates for any changes to the business.
-* Gallery updates for customers the check out the latest creations.
-* Changes to pricing due to current climate.
+* Gallery updates serve as a platform for customers to peruse and explore the latest artistic creations.
+* Adjustments to pricing in response to economic conditions and market dynamics to ensure fair and competitive rates.
 
 
+# Design
 
+### Typography
 
+Josefin Sans was chosen for the navbar and headers, as its sleek design harmonizes with the overall style. Meanwhile, Montserrat was specifically selected for paragraphs and price lists due to its clear presentation, ensuring optimal readability for users navigating through the content.
 
 
 
