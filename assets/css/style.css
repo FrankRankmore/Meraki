@@ -51,6 +51,10 @@ body {
     text-align: right;
 }
 
+p.navbar-brand.home:hover {
+    color: rgb(23, 155, 100);
+}
+
 /*------Hero Image------*/
 
 .hero-image {
