@@ -77,6 +77,10 @@ p.navbar-brand.home:hover {
     text-decoration: underline rgb(23, 155, 100);
 }
 
+.profile {
+    border-radius: 15px;
+}
+
 .section .about {
     padding: 3
 }
@@ -116,6 +120,11 @@ p.navbar-brand.home:hover {
 .images {
     display: block;
 }
+
+.flex-row {
+    display: flex;
+    justify-content: center;
+  }
 
 /*------Footer------*/
 
