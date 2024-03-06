@@ -7,15 +7,15 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    background-color: #ffffff;
+    background-color: #fff;
     
 }
 
 /*------Navbar & Header------*/
 
 .navbar {
-    background-color: #000000;
-    border-bottom: 4px solid rgb(4, 110, 66);
+    background-color: #000;
+    border-bottom: 4px solid rgb(23, 155, 100);
 }
 .home {
     font-family: 'Josefin Sans';
@@ -23,7 +23,7 @@ body {
     margin-left: 20px;
     font-weight: 310;
     letter-spacing: -2px;
-    color: rgb(4, 110, 66);
+    color: rgb(23, 155, 100);
 }
 
 .nav-item {
@@ -32,13 +32,13 @@ body {
 }
 
 .home {
-    color: rgb(4, 110, 66);
+    color: rgb(23, 155, 100);
     margin: 3px;
     font-weight: 300;
 }
 
 .nav-item a {
-    color: rgb(4, 110, 66);
+    color: rgb(23, 155, 100);
     margin: 3px;
     font-weight: 300;
 }
@@ -66,10 +66,10 @@ body {
 /*------About------*/
 
 .about h3 {
-    color: black;
+    color: #000;
     font-size: 3rem;
     font-weight: 400;
-    text-decoration: underline rgb(4, 110, 66);
+    text-decoration: underline rgb(23, 155, 100);
 }
 
 .section .about {
@@ -91,7 +91,7 @@ body {
     border-style: solid;
     border-radius: 10px;
     border-width: 4px;
-    border-color: rgb(4, 110, 66);
+    border-color: rgb(23, 155, 100);
     margin: 0 20px 0 20px;
 }
 
@@ -116,8 +116,8 @@ body {
 
 .footer {
     padding: 2.5rem 0;
-    background-color: #000000;
-    border-top: 4px solid rgb(4, 110, 66);
+    background-color: #000;
+    border-top: 4px solid rgb(23, 155, 100);
 }
 
 .footer .social {
@@ -127,7 +127,7 @@ body {
 
 .footer .social a {
     font-size: 2rem;
-    color: rgb(4, 110, 66);
+    color: rgb(23, 155, 100);
     border: 1px;
     height: 2.5rem;
     display: inline-block;
