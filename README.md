@@ -34,7 +34,13 @@ The purpose of this website is to promote the business to a wider audience and f
 
 Josefin Sans was chosen for the navbar and headers, as its sleek design harmonizes with the overall style. Meanwhile, Montserrat was specifically selected for paragraphs and price lists due to its clear presentation, ensuring optimal readability for users navigating through the content.
 
+## Features:
 
+### Navbar
+
+The navbar is simple and eye catching and runs with the colour theme of the website. It contains the business name and nav links. There is a hover effect over the nav links which turns white.
+
+![alt text](assets/images/navbar.jpg)
 
 ## Testing:
 
