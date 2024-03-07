@@ -38,9 +38,15 @@ Josefin Sans was chosen for the navbar and headers, as its sleek design harmoniz
 
 ### Navbar
 
-The navbar is simple and eye catching and runs with the colour theme of the website. It contains the business name and nav links. There is a hover effect over the nav links which turns white.
+The navbar is intentionally designed to be both visually appealing and functional. It runs with the colour scheme of the website, in the overall design. One notable feature of the navbar is its hover effect, which enhances user interaction. When a user hovers over a navigation link, it dynamically changes color to white, providing visual feedback and highlighting the selected option. 
 
 ![alt text](assets/images/navbar.jpg)
+
+### Footer
+
+By opting for a minimalist approach in designing the footer, I intentionally refrained from cluttering it with unnecessary elements. Instead, I focused solely on including links to the brand's social media pages.
+
+![alt text](assets/images/footer.jpg)
 
 ## Testing:
 
