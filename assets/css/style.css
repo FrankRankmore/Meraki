@@ -91,6 +91,11 @@ p.navbar-brand.home:hover {
     font-weight: 200px;
 }
 
+.about p {
+    font-family: 'Montserrat';
+    font-weight: 450;
+}
+
 /*------Price List------*/
 
 #prices ul {
