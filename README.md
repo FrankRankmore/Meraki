@@ -48,6 +48,11 @@ By opting for a minimalist approach in designing the footer, I intentionally ref
 
 ![alt text](assets/images/footer.jpg)
 
+### About
+
+
+![alt text](assets/images/About.jpg)
+
 ## Testing:
 
 Removed (/) before the assets file as it wasn't showing the images in the deployment.
