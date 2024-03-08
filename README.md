@@ -28,7 +28,11 @@ The purpose of this website is to promote the business to a wider audience and f
 * Adjustments to pricing in response to economic conditions and market dynamics to ensure fair and competitive rates.
 
 
-# Design
+# Design:
+
+### Colour Scheme
+
+![alt text](assets/images/colour.jpg)
 
 ### Typography
 
