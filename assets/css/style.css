@@ -56,6 +56,11 @@ p.navbar-brand.home:hover {
     color: #1BB173;
 }
 
+.navbar-toggler {
+    border: 3px solid #1BB173;
+
+}
+
 /*------Hero Image------*/
 
 .hero-image {
@@ -106,6 +111,10 @@ p.navbar-brand.home:hover {
 }
 
 /*------Price List------*/
+
+#prices {
+    padding: 20px;
+}
 
 #prices h3 {
     font-family: 'Josefin Sans';
