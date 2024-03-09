@@ -110,6 +110,10 @@ p.navbar-brand.home:hover {
     font-weight: 450;
 }
 
+.write {
+    margin-top: 5rem;
+}
+
 /*------Price List------*/
 
 #prices {
