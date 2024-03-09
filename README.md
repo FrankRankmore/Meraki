@@ -32,6 +32,8 @@ The purpose of this website is to promote the business to a wider audience and f
 
 ### Colour Scheme
 
+The colour scheme is based on the clients favourite colour of green. On a black background it brings out the green which really catches the eye.
+
 ![alt text](assets/images/colour.jpg)
 
 ### Typography
