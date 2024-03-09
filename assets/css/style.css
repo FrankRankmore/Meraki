@@ -214,6 +214,13 @@ p.navbar-brand.home:hover {
     color: #1BB173;
 }
 
+/*------Thank You------*/
+
+.thanks h1 {
+    font-family: 'Josefin Sans';
+    text-decoration: underline #1BB173;
+}
+
 /*------Media Queries------*/
 
 @media (max-width: 767px) {
