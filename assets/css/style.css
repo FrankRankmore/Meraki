@@ -78,6 +78,11 @@ p.navbar-brand.home:hover {
     text-decoration: underline #1BB173;
 }
 
+.prof {
+    display: grid;
+    align-items: center;
+}
+
 .profile {
     border-radius: 15px;
     height: auto;
