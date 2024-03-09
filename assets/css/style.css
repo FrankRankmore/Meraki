@@ -143,6 +143,7 @@ p.navbar-brand.home:hover {
     font-size: 2rem;
     text-align: center;
     text-decoration: underline #1BB173;
+    margin-top: -3rem;
 }
 
 .gallery {
