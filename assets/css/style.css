@@ -68,7 +68,7 @@ p.navbar-brand.home:hover {
     height: 500px;
 }
 
-/*------About------*/
+/*------Home [page------*/
 
 .about h3 {
     font-family: 'Josefin Sans';
@@ -80,6 +80,9 @@ p.navbar-brand.home:hover {
 
 .profile {
     border-radius: 15px;
+    height: auto;
+    width: 100%;
+    max-height: 40rem;
 }
 
 .section .about {
