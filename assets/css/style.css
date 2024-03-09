@@ -169,6 +169,14 @@ p.navbar-brand.home:hover {
     justify-content: center;
 }
 
+/*------Contact------*/
+
+
+.form h1 {
+    font-family: 'Josefin Sans';
+    text-decoration: underline #1BB173;
+}
+
 /*------Footer------*/
 
 .footer {
