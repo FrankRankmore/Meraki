@@ -139,6 +139,11 @@ p.navbar-brand.home:hover {
     padding: 5rem;
 }
 
+.thumbnail {
+    height: 200px;
+    width: 200px;
+}
+
 .images {
     display: block;
 }
