@@ -4,7 +4,9 @@ Welcome to Meraki Hairdressing! Dedicated to providing exceptional hair care ser
 
 This website is for my partner Laura to show off her talent and skillset with a gallery of her work, a comprehensive price list and a little bit about her so you get a feel for her personality. Also a page to request a booking if you like what you see.
 
+![alt text](<assets/images/Am I Responsive.jpg>)
 
+Link to the website can be found [Here](https://frankrankmore.github.io/Meraki/)
 
 ## UX
 
@@ -110,4 +112,18 @@ Below is a thank you page which is for the users confirmation after a booking ha
 
 ## Testing:
 
-Removed (/) before the assets file as it wasn't showing the images in the deployment.
+During testing I found that my images weren't responding on my deployed website. I found that I had a (/) before the assets image link. This was removed and images were loading correctly.
+
+Also my hero image wasn't responsive, so i got around this by adding the following media query.
+
+![alt text](<assets/images/Testing 2.png>)
+
+### Manual Testing
+
+Below is a table to outline thesting I completed myself.
+
+|    Feature    |   Action   |   Outcome   |   Result   |
+|---------------|------------|-------------|------------|
+|   Home Link   | 
+
+
