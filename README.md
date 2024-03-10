@@ -24,7 +24,7 @@ The purpose of this website is to promote the business to a wider audience and f
 #### Existing Customers
 
 * Updates for any changes to the business.
-* Gallery updates serve as a platform for customers to peruse and explore the latest artistic creations.
+* Gallery updates serve as a platform for customers to browse and explore the latest artistic creations.
 * Adjustments to pricing in response to economic conditions and market dynamics to ensure fair and competitive rates.
 
 
@@ -39,6 +39,30 @@ The colour scheme is based on the clients favourite colour of green. On a black 
 ### Typography
 
 Josefin Sans was chosen for the navbar and headers, as its sleek design harmonizes with the overall style. Meanwhile, Montserrat was specifically selected for paragraphs and price lists due to its clear presentation, ensuring optimal readability for users navigating through the content.
+
+### Wireframes
+
+The wireframes were designed as a guide on how I want my website to look. There were some changes made in the final outcome of website.
+
+#### Mobile Wireframe
+
+![alt text](<assets/images/Mobile wireframe.png>)
+
+#### Tablet Wireframe
+
+![alt text](<assets/images/Tablet 1.png>)
+
+![alt text](<assets/images/Tablet 2.png>)
+
+![alt text](<assets/images/Tablet 3.png>)
+
+#### Desktop Wireframe
+
+![alt text](<assets/images/Desktop 1.png>)
+
+![alt text](<assets/images/Desktop 2.png>)
+
+![alt text](<assets/images/Desktop 3.png>)
 
 ## Features:
 
@@ -56,8 +80,33 @@ By opting for a minimalist approach in designing the footer, I intentionally ref
 
 ### About
 
+This section gives an insight into the clients background, achievements and experiences. 
 
 ![alt text](assets/images/About.jpg)
+
+### Price List
+
+A comprehensive price list for the user to view.
+
+![alt text](<assets/images/Price List.jpg>)
+
+### Gallery
+
+A Gallery to see the clients work and gain some inspiration.
+
+![alt text](<assets/images/Gallery images.jpg>)
+
+### Contact
+
+Contact page for the user to request a booking or ask any questions.
+
+![alt text](Contact.jpg)
+
+### Thank You
+
+Below is a thank you page which is for the users confirmation after a booking has been requested successfully.
+
+![alt text](<assets/images/Thank you.jpg>)
 
 ## Testing:
 
