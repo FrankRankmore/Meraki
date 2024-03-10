@@ -118,12 +118,5 @@ Also my hero image wasn't responsive, so i got around this by adding the followi
 
 ![alt text](<assets/images/Testing 2.png>)
 
-### Manual Testing
-
-Below is a table to outline thesting I completed myself.
-
-|    Feature    |   Action   |   Outcome   |   Result   |
-|---------------|------------|-------------|------------|
-|   Home Link   | 
 
 
