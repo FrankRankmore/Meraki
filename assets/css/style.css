@@ -251,4 +251,15 @@ p.navbar-brand.home:hover {
         letter-spacing: -2px;
         color: #1BB173;
     }
+    .initial {
+        color: #1BB173;
+        margin: 3px;
+        font-weight: 300;
+    }
+}
+
+@media(max-width: 540px) {
+    .home {
+        display: none;
+    }
 }
