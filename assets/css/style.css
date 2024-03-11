@@ -26,16 +26,16 @@ body {
     color: #1BB173;
 }
 
-.nav-item {
-    font-family: 'Montserrat';
-    font-size: 1.4rem;
-    margin-right: 6px;
-}
-
 .home {
     color: #1BB173;
     margin: 3px;
     font-weight: 300;
+}
+
+.nav-item {
+    font-family: 'Montserrat';
+    font-size: 1.4rem;
+    margin-right: 6px;
 }
 
 .nav-item a {
@@ -242,3 +242,13 @@ p.navbar-brand.home:hover {
     }
 }
 
+@media(max-width: 540px) {
+    .initial {
+        font-family: 'Josefin Sans';
+        font-size: 3rem;
+        margin-left: 20px;
+        font-weight: 310;
+        letter-spacing: -2px;
+        color: #1BB173;
+    }
+}
