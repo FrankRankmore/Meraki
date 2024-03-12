@@ -118,5 +118,7 @@ Also my hero image wasn't responsive, so i got around this by adding the followi
 
 ![alt text](<assets/images/Testing 2.png>)
 
+### Validator Testing
 
+Home page test 
 
