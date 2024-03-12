@@ -8,7 +8,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     background-color: #fff;
-    
+
 }
 
 /*------Navbar & Header------*/
@@ -17,6 +17,7 @@ body {
     background-color: #000;
     border-bottom: 4px solid #1BB173;
 }
+
 .home {
     font-family: 'Josefin Sans';
     font-size: 3rem;
@@ -167,11 +168,6 @@ p.navbar-brand.home:hover {
     margin-left: 5rem;
 }
 
-.flex-row {
-    display: flex;
-    justify-content: center;
-}
-
 /*------Contact------*/
 
 
@@ -230,7 +226,7 @@ p.navbar-brand.home:hover {
     #logo-img {
         width: 50px;
         height: 50px;
-    }   
+    }
 
     .hero-image {
         background-image: url('../images/hero.jpg');
@@ -251,6 +247,7 @@ p.navbar-brand.home:hover {
         letter-spacing: -2px;
         color: #1BB173;
     }
+
     .initial {
         color: #1BB173;
         margin: 3px;
@@ -261,5 +258,12 @@ p.navbar-brand.home:hover {
 @media(max-width: 540px) {
     .home {
         display: none;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .thumbnail {
+        width: 100%;
+        justify-content: center;
     }
 }

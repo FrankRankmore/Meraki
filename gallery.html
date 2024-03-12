@@ -2,108 +2,138 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Meraki Hairdressing">
-    <meta name="keywords" content="Hairdressing, Salon, Wales">
-    <meta name="author" content="Frank Rankmore">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/style.css">
+  <meta charset="UTF-8">
+  <meta name="description" content="Meraki Hairdressing">
+  <meta name="keywords" content="Hairdressing, Salon, Wales">
+  <meta name="author" content="Frank Rankmore">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css">
 
-    <title>Meraki Hairdressing</title>
+  <title>Meraki Hairdressing</title>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100..700&family=Montserrat:wght@100..900&display=swap"
-        rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100..700&family=Montserrat:wght@100..900&display=swap"
+    rel="stylesheet">
 
 
 </head>
 
 <body>
-    <header>
-        <!-- Navbar -->
-        <nav class="navbar navbar-expand-md py-0.3">
-            <div class="container-fluid">
-                <p class="navbar-brand home">Meraki Hairdressing</p>
-                <p class="navbar-brand initial">M H</p>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-auto text-end">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="gallery.html">Gallery</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-
-    <main>
-
-    <!-- Gallery Images -->
-    <div class="row">
-        <div class="column">
-          <div class="content">
-            <img src="assets/images/hair1.jpg" alt="Vivid Colours" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
-          </div>
-        </div>
-        <div class="column">
-          <div class="content">
-            <img src="assets/images/hair2.jpg" alt="Balayage" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
-          </div>
-        </div>
-        <div class="column">
-          <div class="content">
-            <img src="nature.jpg" alt="Nature" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
-          </div>
-        </div>
-        <div class="column">
-          <div class="content">
-            <img src="mountains.jpg" alt="Mountains" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
-          </div>
+  <header>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-md py-0.3">
+      <div class="container-fluid">
+        <p class="navbar-brand home">Meraki Hairdressing</p>
+        <p class="navbar-brand initial">M H</p>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto text-end">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="gallery.html">Gallery</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
         </div>
       </div>
+    </nav>
+  </header>
 
-<!-- Footer -->
+  <main>
+
+    <!-- Gallery Images -->
+    <div class="container gallery">
+      <h1>Gallery</h1>
+      <div class="row">
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair1.jpg" alt="Vivid Colours" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair2.jpg" alt="Balayage" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair3.jpg" alt="Pink Balayage" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair4.jpg" alt="Shag Cut" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair5.jpg" alt="Full Head Vivid Colours" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair6.jpg" alt="Bleach and Tone" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair7.jpg" alt="Lob Haircut" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair8.jpg" alt="Blue Balayage" class="img-fluid images">
+                  </div>
+              </div>
+
+              <div class="col-lg-4 col-sm-6">
+                  <div class="thumbnail">
+                      <img src="assets/images/hair9.jpg" alt="Foilayage" class="img-fluid images">
+                  </div>
+              </div>
+      </div>
+  </div>
+</main>    
+
+
+    <!-- Footer -->
     <footer class="footer py-1">
-        <div class="social">
-            <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-            <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
-            <a href="https://www.tiktok.com" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-            <br>
+      <div class="social">
+        <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
+        <a href="https://www.tiktok.com" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+        <br>
         <p class="copyright">Meraki Hairdressing 2024</p>
-    </div>
+      </div>
     </footer>
-    
+
 
 
     <script src="https://kit.fontawesome.com/a059297e21.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous">
+      integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous">
     </script>
 </body>
 
