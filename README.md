@@ -116,7 +116,7 @@ During testing I found that my images weren't responding on my deployed website.
 
 Also my hero image wasn't responsive, so i got around this by adding the following media query.
 
-![alt text](<assets/images/Testing 2.png>)
+![alt text](<assets/images/hero test.png>)
 
 ### Validator Testing
 
