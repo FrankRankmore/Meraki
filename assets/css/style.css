@@ -96,10 +96,6 @@ p.navbar-brand.home:hover {
     max-height: 40rem;
 }
 
-.section .about {
-    padding: 3;
-}
-
 .about h3 {
     font-family: 'Josefin Sans';
     font-size: 2rem;
