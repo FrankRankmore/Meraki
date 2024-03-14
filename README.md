@@ -120,5 +120,18 @@ Also my hero image wasn't responsive, so i got around this by adding the followi
 
 ### Validator Testing
 
-Home page test 
+#### Home Page Validator
 
+![alt text](<assets/images/Home page validator.png>)
+
+#### Gallery page Validator
+
+![alt text](<assets/images/Gallery page validator.png>)
+
+#### Contact Page Validator
+
+![alt text](<assets/images/Contact page validator.png>)
+
+#### CSS Validator
+
+![alt text](<assets/images/css validator.png>)
