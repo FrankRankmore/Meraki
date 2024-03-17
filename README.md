@@ -150,12 +150,23 @@ The below testing was completed on pagespeed.web.dev.
 
 ![alt text](<assets/images/Mobile testing.png>)
 
+### Devices Used
+
+Below is a list of the different devices used to check my website during testing.
+
+* HP Pavilion laptop running Windows 10
+* Samsung Galaxy S21 Ultra
+* iPhone 11
+* Amazon Fire 7 (4th Generation)
+
+I have tested the website on Google Chrome, Firefox, Safari and Silk Browser with no issues.
+
 ## Technologies Used:
 
 * HTML & CSS were used in the styling of the website.
 * Bootstrap was used to create the Navbar, Gallery and Contact page.
 * Font Awesome for my fonts.
-* VS Code was used as my code editor.
+* VS Code & Gitpod was used as my IDE to build my website.
 * GitHub was used to store my repository.
 * Balsamiq was used to build my wireframes.
 
@@ -177,6 +188,6 @@ This site was deployed to GitHub pages. The following are the steps I took to de
 
 #### People
 
-Thank you to members of the Slack Community for their help.
+Thank you to students of the Slack Community for their help.
 Also to my mentor Excellence Ilesanmi for the advice during our sessions.
 And to the Code Institute tutor team for their support.
