@@ -102,7 +102,7 @@ A Gallery to see the clients work and gain some inspiration.
 
 Contact page for the user to request a booking or ask any questions.
 
-![alt text](Contact.jpg)
+![alt text](assets/images/Contact.jpg)
 
 ### Thank You
 
@@ -120,18 +120,63 @@ Also my hero image wasn't responsive, so i got around this by adding the followi
 
 ### Validator Testing
 
-#### Home Page Validator
+I tested each page on W3C Validation Service and all pages and CSS code passed without issues.
+
+#### Home Page
 
 ![alt text](<assets/images/Home page validator.png>)
 
-#### Gallery page Validator
+#### Gallery Page 
 
 ![alt text](<assets/images/Gallery page validator.png>)
 
-#### Contact Page Validator
+#### Contact Page 
 
 ![alt text](<assets/images/Contact page validator.png>)
 
-#### CSS Validator
+#### CSS
 
 ![alt text](<assets/images/css validator.png>)
+
+### Accessibility Testing
+
+The below testing was completed on pagespeed.web.dev.
+
+#### Desktop 
+
+![alt text](<assets/images/Desktop testing.png>)
+
+#### Mobile
+
+![alt text](<assets/images/Mobile testing.png>)
+
+## Technologies Used:
+
+* HTML & CSS were used in the styling of the website.
+* Bootstrap was used to create the Navbar, Gallery and Contact page.
+* Font Awesome for my fonts.
+* VS Code was used as my code editor.
+* GitHub was used to store my repository.
+* Balsamiq was used to build my wireframes.
+
+## Deployment 
+
+This site was deployed to GitHub pages. The following are the steps I took to deploy the site.
+
+1. In the [GitHub Repository](https://github.com/FrankRankmore/Meraki), click on the settings tab.
+2. Click the 'Pages' link on the left menu under Code and Automation.
+3. Select Main in the source selection drop-down menu. Then click "Save".
+4. The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+## Credits
+
+#### Media
+
+* Profile image, Gallery images and Thank You image were obtained from client.
+* My hero image was taken from [Unsplash](https://unsplash.com/s/photos/hair-salon)
+
+#### People
+
+Thank you to members of the Slack Community for their help.
+Also to my mentor Excellence Ilesanmi for the advice during our sessions.
+And to the Code Institute tutor team for their support.
