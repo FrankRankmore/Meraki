@@ -4,7 +4,7 @@ Welcome to Meraki Hairdressing! Dedicated to providing exceptional hair care ser
 
 This website is for my partner Laura to show off her talent and skillset with a gallery of her work, a comprehensive price list and a little bit about her so you get a feel for her personality. Also a page to request a booking if you like what you see.
 
-![alt text](<assets/images/Am I Responsive.jpg>)
+![alt text](<assets/images/Responsive.png>)
 
 Link to the website can be found [Here](https://frankrankmore.github.io/Meraki/)
 
